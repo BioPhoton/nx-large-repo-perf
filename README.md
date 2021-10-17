@@ -7,7 +7,7 @@ This repo contains a script that generates such workspace.
 Simply run:
 
 ```
-node ./tools/scripts/generate-project.js
+node ./tools/scripts/generate-projects.js
 ```
 
 It will generate one app importing 10 libs, each of which importing other 10 libs, each of which has 10 components.
